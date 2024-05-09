@@ -12,6 +12,8 @@ declare module 'vue' {
     CustomTag: typeof import('./components/CustomTag.vue')['default']
     ElButton: typeof import('element-plus/es')['ElButton']
     ElCol: typeof import('element-plus/es')['ElCol']
+    ElCollapse: typeof import('element-plus/es')['ElCollapse']
+    ElCollapseItem: typeof import('element-plus/es')['ElCollapseItem']
     ElConfigProvider: typeof import('element-plus/es')['ElConfigProvider']
     ElDialog: typeof import('element-plus/es')['ElDialog']
     ElForm: typeof import('element-plus/es')['ElForm']
